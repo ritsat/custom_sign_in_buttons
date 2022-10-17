@@ -1,6 +1,6 @@
 # sign_in_button_example
 
-Custom Sign in Buttons using Flutter.
+Create Attractive Sign in Buttons using Flutter.
 
 ## Getting Started
 
