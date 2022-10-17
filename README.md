@@ -1,16 +1,17 @@
 # sign_in_button_example
 
-A new Flutter project.
+Custom Sign in Buttons using Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project covers how to create sign in buttons for various social media accounts like Google, Facebook, Twitter, Linked In, etc. It also covers how to create custom sign in buttons.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[custom_signin_buttons](https://pub.dev/packages/custom_signin_buttons)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Youtube
+
+Watch below [Youtube](https://www.youtube.com/watch?v=xSNu-1nKNEQ) video for detail code walkthrough,
+
+[![Custom Sign in Buttons](https://img.youtube.com/vi/xSNu-1nKNEQ/0.jpg)](https://www.youtube.com/watch?v=xSNu-1nKNEQ)
