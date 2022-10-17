@@ -12,6 +12,6 @@ This project covers how to create sign in buttons for various social media accou
 
 ## Youtube
 
-Watch below [Youtube](https://www.youtube.com/watch?v=xSNu-1nKNEQ) video for detail code walkthrough,
+Watch below [Youtube](https://www.youtube.com/watch?v=-CuxhaL_yhc) video for detail code walkthrough,
 
-[![Custom Sign in Buttons](https://img.youtube.com/vi/xSNu-1nKNEQ/0.jpg)](https://www.youtube.com/watch?v=xSNu-1nKNEQ)
+[![Custom Sign in Buttons](https://img.youtube.com/vi/-CuxhaL_yhc/0.jpg)](https://www.youtube.com/watch?v=-CuxhaL_yhc)
